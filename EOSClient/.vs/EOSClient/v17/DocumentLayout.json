@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\EOSClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\EOSClient\\UpgradeLog.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UpgradeLog.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81155B9-E6B5-4CC5-A05B-E9B1DE6264F7}|EOSClient.csproj|C:\\Users\\admin\\Desktop\\EOSClient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81155B9-E6B5-4CC5-A05B-E9B1DE6264F7}|EOSClient.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81155B9-E6B5-4CC5-A05B-E9B1DE6264F7}|EOSClient.csproj|C:\\Users\\admin\\Desktop\\EOSClient\\frmcheckfont.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A81155B9-E6B5-4CC5-A05B-E9B1DE6264F7}|EOSClient.csproj|solutionrelative:frmcheckfont.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81155B9-E6B5-4CC5-A05B-E9B1DE6264F7}|EOSClient.csproj|C:\\Users\\admin\\Desktop\\EOSClient\\frmcheckfont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81155B9-E6B5-4CC5-A05B-E9B1DE6264F7}|EOSClient.csproj|solutionrelative:frmcheckfont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81155B9-E6B5-4CC5-A05B-E9B1DE6264F7}|EOSClient.csproj|C:\\Users\\admin\\Desktop\\EOSClient\\frmannoucement.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A81155B9-E6B5-4CC5-A05B-E9B1DE6264F7}|EOSClient.csproj|solutionrelative:frmannoucement.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81155B9-E6B5-4CC5-A05B-E9B1DE6264F7}|EOSClient.csproj|C:\\Users\\admin\\Desktop\\EOSClient\\frmannoucement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81155B9-E6B5-4CC5-A05B-E9B1DE6264F7}|EOSClient.csproj|solutionrelative:frmannoucement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\EOSClient\\EOSClient.pdb||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EOSClient.pdb||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\NAudio\\MmResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\NAudio\\MmException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|EOSClient||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81155B9-E6B5-4CC5-A05B-E9B1DE6264F7}|EOSClient.csproj|C:\\Users\\admin\\Desktop\\EOSClient\\frmannoucement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A81155B9-E6B5-4CC5-A05B-E9B1DE6264F7}|EOSClient.csproj|solutionrelative:frmannoucement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81155B9-E6B5-4CC5-A05B-E9B1DE6264F7}|EOSClient.csproj|C:\\Users\\admin\\Desktop\\EOSClient\\authenticateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A81155B9-E6B5-4CC5-A05B-E9B1DE6264F7}|EOSClient.csproj|solutionrelative:authenticateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81155B9-E6B5-4CC5-A05B-E9B1DE6264F7}|EOSClient.csproj|C:\\Users\\admin\\Desktop\\EOSClient\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81155B9-E6B5-4CC5-A05B-E9B1DE6264F7}|EOSClient.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81155B9-E6B5-4CC5-A05B-E9B1DE6264F7}|EOSClient.csproj|C:\\Users\\admin\\Desktop\\EOSClient\\authenticateform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A81155B9-E6B5-4CC5-A05B-E9B1DE6264F7}|EOSClient.csproj|solutionrelative:authenticateform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpgradeLog.htm",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EOSClient\\UpgradeLog.htm",
+              "RelativeDocumentMoniker": "UpgradeLog.htm",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EOSClient\\UpgradeLog.htm",
+              "RelativeToolTip": "UpgradeLog.htm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-30T15:52:14.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MmException.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\NAudio\\MmException.cs",
+              "RelativeDocumentMoniker": "..\\NAudio\\MmException.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\NAudio\\MmException.cs",
+              "RelativeToolTip": "..\\NAudio\\MmException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:52:14.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MmResult.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\NAudio\\MmResult.cs",
+              "RelativeDocumentMoniker": "..\\NAudio\\MmResult.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\NAudio\\MmResult.cs",
+              "RelativeToolTip": "..\\NAudio\\MmResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:52:14.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmCheckFont.resx",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EOSClient\\frmCheckFont.resx",
+              "RelativeDocumentMoniker": "frmCheckFont.resx",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EOSClient\\frmCheckFont.resx",
+              "RelativeToolTip": "frmCheckFont.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-30T15:35:38.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EOSClient\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EOSClient\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:35:39.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCheckFont.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EOSClient\\frmCheckFont.cs",
+              "RelativeDocumentMoniker": "frmCheckFont.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EOSClient\\frmCheckFont.cs",
+              "RelativeToolTip": "frmCheckFont.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:52:14.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmAnnoucement.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EOSClient\\frmAnnoucement.cs",
+              "RelativeDocumentMoniker": "frmAnnoucement.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EOSClient\\frmAnnoucement.cs",
+              "RelativeToolTip": "frmAnnoucement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:52:14.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAnnoucement.resx",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EOSClient\\frmAnnoucement.resx",
+              "RelativeDocumentMoniker": "frmAnnoucement.resx",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EOSClient\\frmAnnoucement.resx",
+              "RelativeToolTip": "frmAnnoucement.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-30T15:35:34.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EOSClient.pdb",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EOSClient\\EOSClient.pdb",
+              "RelativeDocumentMoniker": "EOSClient.pdb",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EOSClient\\EOSClient.pdb",
+              "RelativeToolTip": "EOSClient.pdb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002276|",
+              "WhenOpened": "2024-04-30T15:52:14.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EOSClient",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EOSClient\\EOSClient.csproj",
+              "RelativeDocumentMoniker": "EOSClient.csproj",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EOSClient\\EOSClient.csproj",
+              "RelativeToolTip": "EOSClient.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-30T15:36:30.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmAnnoucement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EOSClient\\frmAnnoucement.cs",
+              "RelativeDocumentMoniker": "frmAnnoucement.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EOSClient\\frmAnnoucement.cs [Design]",
+              "RelativeToolTip": "frmAnnoucement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:36:20.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthenticateForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EOSClient\\AuthenticateForm.cs",
+              "RelativeDocumentMoniker": "AuthenticateForm.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EOSClient\\AuthenticateForm.cs [Design]",
+              "RelativeToolTip": "AuthenticateForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:36:10.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EOSClient\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EOSClient\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:35:46.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthenticateForm.resx",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EOSClient\\AuthenticateForm.resx",
+              "RelativeDocumentMoniker": "AuthenticateForm.resx",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EOSClient\\AuthenticateForm.resx",
+              "RelativeToolTip": "AuthenticateForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-30T15:35:31.021Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
